@@ -226,7 +226,7 @@ export const UI = {
   },
   hero: {
     badge: { zh: '東海大學中文系 兼任助理教授', en: 'Adjunct Assistant Professor, Dept. of Chinese, Tunghai University' },
-    title1: { zh: '深研古文字文字學', en: 'Advancing Chinese Paleography,' },
+    title1: { zh: '深研古文字、文字學', en: 'Advancing Chinese Paleography,' },
     title2a: { zh: '開拓 ', en: 'Pioneering ' },
     title2b: { zh: 'AI 融入語文教學', en: 'AI-Integrated Language Pedagogy' },
     title2c: { zh: ' 新藍海', en: '' },

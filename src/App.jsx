@@ -438,7 +438,7 @@ export default function App() {
                 {/* 讀取個人上傳之相片，若載入失敗則 fallback 至優美的字形頭像 */}
                 {!imgError ? (
                   <img 
-                    src="2.png" 
+                    src="PHOTO1.jpg" 
                     alt="左家綸 博士" 
                     className="w-full h-full object-cover rounded-lg"
                     onError={() => setImgError(true)}
@@ -564,7 +564,7 @@ export default function App() {
                   <div className="relative w-44 h-52 rounded-xl overflow-hidden shadow-md border-2 border-stone-200 mb-6 bg-stone-100 flex items-center justify-center">
                     {!imgError ? (
                       <img 
-                        src="2.png" 
+                        src="PHOTO1.jpg" 
                         alt="左家綸 博士" 
                         className="w-full h-full object-cover"
                         onError={() => setImgError(true)}

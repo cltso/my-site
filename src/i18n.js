@@ -251,7 +251,7 @@ export const UI = {
       gender: { zh: '性別', en: 'Gender' },
       genderVal: { zh: '男', en: 'Male' },
       birth: { zh: '出生年月', en: 'Date of Birth' },
-      birthVal: { zh: '1985 年 12 月 16 日', en: 'December 16, 1985' },
+      birthVal: { zh: '12 月 16 日', en: 'December 16, 1985' },
       current: { zh: '現職', en: 'Current Position' },
       currentVal: { zh: '東海大學中文系 兼任助理教授｜僑光科技大學 兼任教師', en: 'Adjunct Assistant Professor, Tunghai University; Adjunct Lecturer, Overseas Chinese Univ. of Technology' },
       expertise: { zh: '學術專長', en: 'Expertise' },

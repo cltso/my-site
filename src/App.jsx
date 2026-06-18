@@ -10,6 +10,7 @@ import { PUBLICATIONS, AI_LESSONS, UI } from './i18n';
 // 個人照片（與 App.jsx 同放在 src 資料夾）
 import heroPhoto from './PHOTO4.png';   // 首頁大圖
 import bioPhoto from './PHOTO1.jpg';    // 自傳區照片
+import siteLogo from './logo_amber_box.png';   // 網站 logo（左字金文）
 
 export default function App() {
   const [lang, setLang] = useState('zh');           // 'zh' 中文 | 'en' English
@@ -90,9 +91,7 @@ export default function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-20">
             <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-gradient-to-tr from-amber-800 to-amber-600 text-white rounded-lg flex items-center justify-center font-bold text-xl shadow-md border border-amber-700">
-                左
-              </div>
+              <img src={siteLogo} alt="左家綸 博士 logo" className="w-10 h-10 rounded-lg object-cover shadow-md" />
               <div>
                 <span className="text-xl font-bold text-stone-900 tracking-wider">{t(UI.brandName)}</span>
                 <span className="ml-2.5 text-xs font-semibold px-2 py-0.5 bg-amber-50 text-amber-800 rounded-full border border-amber-200 hidden sm:inline">

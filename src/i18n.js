@@ -285,10 +285,10 @@ export const UI = {
     now: { zh: '迄今', en: 'Present' },
     j1org: { zh: '東海大學 中文系', en: 'Dept. of Chinese, Tunghai University' },
     j1role: { zh: '兼任助理教授', en: 'Adjunct Assistant Professor' },
-    j1desc: { zh: '授課：大一國文、古典文字學研究、實用文寫作、敘事思辨課程', en: 'Courses: Freshman Chinese, classical paleography, practical writing, narrative & critical thinking' },
+    j1desc: { zh: '曾授課程：大一國文、文字學', en: 'Courses: Freshman Chinese, classical paleography' },
     j2org: { zh: '僑光科技大學 通識教育中心', en: 'General Education Center, Overseas Chinese Univ. of Technology' },
     j2role: { zh: '兼任教師', en: 'Adjunct Lecturer' },
-    j2desc: { zh: '授課：大學國文、實用表達、語文思辨與通識文學欣賞', en: 'Courses: University Chinese, practical expression, language critical thinking, literary appreciation' },
+    j2desc: { zh: '授課：大學國文、傳記文學', en: 'Courses: University Chinese, Biographical Literature' },
     j3org: { zh: '東海大學 中文系', en: 'Dept. of Chinese, Tunghai University' },
     j3role: { zh: '兼任講師', en: 'Adjunct Lecturer' },
     j3desc: { zh: '服務長達 9 年，積累極豐富之大一國語文教學、課程規劃與學生輔導實務', en: 'Nine years of service with extensive experience in Freshman Chinese teaching, course planning, and student advising' }

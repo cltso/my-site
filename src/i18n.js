@@ -288,7 +288,7 @@ export const UI = {
     j1desc: { zh: '曾授課程：大一國文、文字學', en: 'Courses: Freshman Chinese, classical paleography' },
     j2org: { zh: '僑光科技大學 通識教育中心', en: 'General Education Center, Overseas Chinese Univ. of Technology' },
     j2role: { zh: '兼任教師', en: 'Adjunct Lecturer' },
-    j2desc: { zh: '授課：大學國文、傳記文學', en: 'Courses: University Chinese, Biographical Literature' },
+    j2desc: { zh: '曾授課程：大學國文、傳記文學', en: 'Courses: University Chinese, Biographical Literature' },
     j3org: { zh: '東海大學 中文系', en: 'Dept. of Chinese, Tunghai University' },
     j3role: { zh: '兼任講師', en: 'Adjunct Lecturer' },
     j3desc: { zh: '服務長達 9 年，積累極豐富之大一國語文教學、課程規劃與學生輔導實務', en: 'Nine years of service with extensive experience in Freshman Chinese teaching, course planning, and student advising' }

@@ -361,6 +361,6 @@ export const UI = {
     site: { zh: '左家綸 博士個人學術網站', en: 'Dr. Chia-Lun Tso — Academic Website' },
     tagline: { zh: '專攻：甲骨文與古文字學、中文語法語用學、生成式 AI 中文創新生態教學。', en: 'Specializing in oracle-bone script & paleography, Chinese grammar & pragmatics, and generative-AI Chinese pedagogy.' },
     rights: { zh: '© 2026 Dr. Chia-Lun Tso. 版權所有。（資料更新日期：2026年5月4日）', en: '© 2026 Dr. Chia-Lun Tso. All Rights Reserved. (Updated: May 4, 2026)' },
-    affil: { zh: '東海大學 中國文學系 / 僑光科技大學 通識教育中心', en: 'Tunghai University, Dept. of Chinese / Overseas Chinese Univ. of Technology, General Education' }
+    affil: { zh: '', en: '' }
   }
 };

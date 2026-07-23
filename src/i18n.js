@@ -253,7 +253,7 @@ export const UI = {
       birth: { zh: '出生年月', en: 'Date of Birth' },
       birthVal: { zh: '12 月 16 日', en: 'December 16, 1985' },
       current: { zh: '現職', en: 'Current Position' },
-      currentVal: { zh: '東海大學中文系 兼任助理教授｜僑光科技大學 兼任教師', en: 'Adjunct Assistant Professor, Tunghai University; Adjunct Lecturer, Overseas Chinese Univ. of Technology' },
+      currentVal: { zh: '東海大學中文系 兼任助理教授｜僑光科技大學通識教育中心 兼任教師', en: 'Adjunct Assistant Professor, Tunghai University; Adjunct Lecturer, Overseas Chinese Univ. of Technology' },
       expertise: { zh: '學術專長', en: 'Expertise' },
       expertiseVal: { zh: '甲骨文、古文字學、語法學、AI 語文教學', en: 'Oracle-bone script, paleography, grammar, AI language pedagogy' },
       email: { zh: '信箱', en: 'Email' }

@@ -343,6 +343,7 @@ export const UI = {
     topic3: { zh: '文字學與語法學跨學科研究合作', en: 'Interdisciplinary research in paleography & grammar' },
     office: { zh: '主要學術辦公：臺灣台中市西屯區台灣大道四段1727號 (東海大學)', en: 'Office: No. 1727, Sec. 4, Taiwan Blvd., Xitun Dist., Taichung, Taiwan (Tunghai University)' },
     emailLine: { zh: '電子郵件聯繫：cltso@thu.edu.tw', en: 'Email: cltso@thu.edu.tw' },
+    lineId: { zh: 'LINE ID：cltso', en: 'LINE ID: cltso' },
     formHeading: { zh: '發送學術詢問 / 合作訊息', en: 'Send an Inquiry / Collaboration Message' },
     formIntro: { zh: '若您有教學觀摩、論文合撰或共備計畫，歡迎填寫以下表單。送出後將自動開啟您的郵件軟體，協助您寄信至左博士信箱。', en: 'For teaching observation, co-authoring, or co-design proposals, please fill in the form below. On submit, your email app will open with a pre-filled message to Dr. Tso.' },
     sentHeading: { zh: '已為您開啟郵件軟體！', en: 'Your email app has been opened!' },

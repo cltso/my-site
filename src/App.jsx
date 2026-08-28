@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+emailLineimport React, { useState, useMemo } from 'react';
 import {
   BookOpen, Award, Cpu, GraduationCap, Briefcase,
   Search, Mail, MapPin, Menu, X, Sparkles, BookMarked,
@@ -609,6 +609,7 @@ export default function App() {
                 <div className="border-t border-stone-800 pt-6 space-y-2 text-xs text-stone-400">
                   <p>{t(UI.contact.office)}</p>
                   <p>{t(UI.contact.emailLine)}</p>
+                  <p>{t(UI.contact.lineId)}</p>
                 </div>
               </div>
 

@@ -177,6 +177,10 @@ export default function App() {
                   <Mail size={16} className="text-amber-500" />
                   <span className="text-sm">cltso@thu.edu.tw</span>
                 </div>
+                 <div className="flex items-center justify-center md:justify-start space-x-2">
+                  <Mail size={16} className="text-amber-500" />
+                  <span className="text-sm">LINE ID：cltso</span>
+                </div>
               </div>
             </div>
 

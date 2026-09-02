@@ -226,6 +226,7 @@ export const UI = {
   },
   hero: {
     badge: { zh: '東海大學中文系 兼任助理教授', en: 'Adjunct Assistant Professor, Dept. of Chinese, Tunghai University' },
+    badgeEmi: { zh: 'EMI 全英語授課認證', en: 'EMI-Certified Instructor' },
     title1: { zh: '深研古文字、文字學', en: 'Advancing Chinese Paleography,' },
     title2a: { zh: '開拓 ', en: 'Pioneering ' },
     title2b: { zh: 'AI 融入語文教學', en: 'AI-Integrated Language Pedagogy' },
@@ -242,7 +243,9 @@ export const UI = {
     s2t: { zh: 'AI 語文創新生態', en: 'AI Language Innovation' },
     s2d: { zh: '近三年將生成式 AI 設計成語文教學之「對話媒介」，強化引導式教學。', en: 'Designing generative AI as a "dialogic medium" for language teaching over the past three years to strengthen guided instruction.' },
     s3t: { zh: '紮實語料編纂力', en: 'Corpus & Lexicography' },
-    s3d: { zh: '參與國家級計畫，合編里仁書局發行《甲骨文詞譜》全五冊。', en: 'Participated in a national project and co-edited the five-volume Lexicon of Oracle-Bone Inscriptions (Le Jin Books).' }
+    s3d: { zh: '參與國家級計畫，合編里仁書局發行《甲骨文詞譜》全五冊。', en: 'Participated in a national project and co-edited the five-volume Lexicon of Oracle-Bone Inscriptions (Le Jin Books).' },
+    s4t: { zh: 'EMI 英語授課能力', en: 'EMI Teaching Capability' },
+    s4d: { zh: '完成成功大學外語中心「漢學英語授課教師專業發展課程」，具備以全英語教授漢學專業課程之能力。', en: 'Completed the Sinology EMI Professional Development Program at National Cheng Kung University, qualified to teach Sinology courses fully in English.' }
   },
   bio: {
     heading: { zh: '學術與教學自傳', en: 'Academic & Teaching Profile' },

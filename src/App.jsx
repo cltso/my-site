@@ -185,9 +185,15 @@ export default function App() {
             </div>
 
             <div className="md:col-span-8 space-y-6 text-center md:text-left">
-              <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-400 text-sm font-semibold">
-                <Sparkles size={14} />
-                <span>{t(UI.hero.badge)}</span>
+              <div className="flex flex-wrap gap-2 justify-center md:justify-start">
+                <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-400 text-sm font-semibold">
+                  <Sparkles size={14} />
+                  <span>{t(UI.hero.badge)}</span>
+                </div>
+                <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-sm font-semibold">
+                  <Sparkles size={14} />
+                  <span>{t(UI.hero.badgeEmi)}</span>
+                </div>
               </div>
 
               <h1 className="text-4xl md:text-5xl font-extrabold tracking-wider text-white font-serif leading-tight">
@@ -222,7 +228,7 @@ export default function App() {
         {activeTab === 'about' && (
           <div className="space-y-12 animate-fadeIn">
 
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="bg-white p-6 rounded-xl border border-stone-200 shadow-sm flex items-start space-x-4">
                 <div className="p-3 bg-amber-50 rounded-lg text-amber-800"><Compass size={24} /></div>
                 <div>
@@ -242,6 +248,13 @@ export default function App() {
                 <div>
                   <h3 className="font-bold text-stone-900 text-lg">{t(UI.stats.s3t)}</h3>
                   <p className="text-xs text-stone-500 mt-1">{t(UI.stats.s3d)}</p>
+                </div>
+              </div>
+              <div className="bg-white p-6 rounded-xl border-2 border-emerald-200 shadow-sm flex items-start space-x-4">
+                <div className="p-3 bg-emerald-50 rounded-lg text-emerald-700"><Globe size={24} /></div>
+                <div>
+                  <h3 className="font-bold text-stone-900 text-lg">{t(UI.stats.s4t)}</h3>
+                  <p className="text-xs text-stone-500 mt-1">{t(UI.stats.s4d)}</p>
                 </div>
               </div>
             </div>
